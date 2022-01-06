@@ -1,11 +1,5 @@
 import './links.css'
-
-const LINKS = {
-    linkedin: "https://www.linkedin.com/in/asatraitis/",
-    github: "https://github.com/asatraitis",
-    codepen: "https://codepen.io/asatraitis",
-    youtube: "https://www.youtube.com/channel/UCUa7tKcxbqSpeTCd4UEaR5w"
-}
+import LINKS from '../../config/links'
 
 export default function Links() {
     return (
