@@ -4,7 +4,6 @@
 .App a {
 	padding: 0;
 	color: white;
-	font-size: 11px;
 }
 .App a:hover {
 	color: var(--secondary-color);
