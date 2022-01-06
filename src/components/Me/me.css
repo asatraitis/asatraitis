@@ -2,10 +2,11 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	font-size: 36px;
 }
 
 .Me .Me-wave-icon {
-	font-size: 24px;
+	font-size: 48px;
 }
 .Me .Me-name {
 	color: var(--secondary-color);
