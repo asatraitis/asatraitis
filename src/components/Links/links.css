@@ -1,0 +1,12 @@
+.Links {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	display: flex;
+}
+.Links li {
+	line-height: 1;
+}
+.Links li:not(:last-of-type) {
+	margin-right: 0.4rem;
+}

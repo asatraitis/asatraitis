@@ -1,0 +1,29 @@
+.App {
+	height: 100vh;
+}
+.App a {
+	padding: 0;
+	color: white;
+	font-size: 11px;
+}
+.App a:hover {
+	color: var(--secondary-color);
+}
+.App .App-main {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: stretch;
+	align-items: stretch;
+	color: white;
+}
+.App .App-main > * {
+	flex-grow: 1;
+}
+
+.App .App-content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}

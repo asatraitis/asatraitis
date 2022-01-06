@@ -1,0 +1,12 @@
+.ResumeDownload .ResumeDownload-btn {
+	background: rgba(225, 225, 225, 0.05);
+	border: 1px solid white;
+	color: white;
+	padding: 0.3rem 0.9rem;
+	margin: 1rem 0;
+	cursor: pointer;
+}
+.ResumeDownload .ResumeDownload-btn:hover {
+	border-color: var(--secondary-color);
+	transition: border-color 0.2s linear;
+}
