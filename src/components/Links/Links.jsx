@@ -6,6 +6,7 @@ export default function Links() {
         <ul className="Links">
             <li><a href={LINKS.linkedin}>LinkedIn</a></li>
             <li><a href={LINKS.github}>Github</a></li>
+            <li><a href={LINKS.npm}>NPM</a></li>
             <li><a href={LINKS.codepen}>Codepen</a></li>
             <li><a href={LINKS.youtube}>YouTube</a></li>
           </ul>

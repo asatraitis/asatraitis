@@ -4,6 +4,7 @@ const LINKS = {
 	codepen: 'https://codepen.io/asatraitis',
 	youtube: 'https://www.youtube.com/channel/UCUa7tKcxbqSpeTCd4UEaR5w',
 	source: 'https://github.com/asatraitis/asatraitis',
+	npm: 'https://www.npmjs.com/~asatraitis',
 };
 
 export default LINKS;
